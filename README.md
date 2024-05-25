@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Recommendation algorithms are confusing, and junk information fills the world. I don't want to be fed by recommendation algorithms. I will actively search for the information I want, just like many years ago.
+
 <!--
 **tobelight/tobelight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
